@@ -16,5 +16,6 @@
 prebuilt_font {
     name: "Lustria-Regular.ttf",
     src: "Lustria-Regular.ttf",
+    product_specific: true,
 }
         
